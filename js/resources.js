@@ -1,1 +1,0 @@
-renderNavbar(user); 
